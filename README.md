@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<a href="https://www.zeus0789.github.io">
+<a href="https://zeus0789.github.io">
    🌍
 </a>
 <a href="https://www.linkedin.com/in/abhishek-tiwari7/">
