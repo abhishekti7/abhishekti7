@@ -1,12 +1,12 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<a href="https://zeus0789.github.io">
+<a href="https://abhishekti7.github.io">
    🌍
 </a>
 <a href="https://www.linkedin.com/in/abhishek-tiwari7/">
   <img align="left" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/zeus0789">
+<a href="https://github.com/abhishekti7">
   <img align="left" alt="Abhishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.codechef.com/users/zeus0789">
