@@ -22,8 +22,7 @@
 ### I am Abhishek Tiwari
 - Android, Flutter, Python, Machine Learning.
 - A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Android Development and Machine Learning.
-- I'm currently looking for 6-month internships.
+- Currently working on some of my cool side projects based on Android Development and Node.js.
 
 Check out my latest project : <a href="https://play.google.com/store/apps/details?id=com.moviesearch.watchmovies.mymovielist"> :iphone: MyMovieList</a>
 <br/>
