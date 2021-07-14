@@ -20,7 +20,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ### I am Abhishek Tiwari
-- Android, Flutter, Python, Machine Learning.
+- Android, Flutter, Python, React.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Android Development and Node.js.
 
