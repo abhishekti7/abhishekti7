@@ -20,8 +20,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 ### I am Abhishek Tiwari
-- Android, Flutter, Python, React.
-- A Computer Engineering Undergraduate Student. 
+- Android, Flutter, Python, React, Node.
+- Software Engineer at Info Edge (India) Ltd. 
 - Currently working on some of my cool side projects based on Android Development and Node.js.
 
 Check out my latest project : <a href="https://play.google.com/store/apps/details?id=com.moviesearch.watchmovies.mymovielist"> :iphone: MyMovieList</a>
