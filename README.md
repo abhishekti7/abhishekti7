@@ -1,6 +1,6 @@
-## Konnichiwa! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hello! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<a href="https://abhishekti7.github.io">
+<a href="https://www.abhishektiwari.dev/">
    🌍
 </a>
 <a href="https://www.linkedin.com/in/abhishek-tiwari7/">
